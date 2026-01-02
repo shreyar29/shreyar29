@@ -4,7 +4,15 @@
 💻 Aspiring Full-Stack Developer  
 📍 Bengaluru, India  
 
-I am an MCA student with a strong academic background in computer applications and hands-on experience in full-stack and web application development. I enjoy building scalable, user-centric applications and continuously improving my programming and problem-solving skills through real-world projects and internships.
+I enjoy turning ideas into working applications.  
+With a strong academic foundation and hands-on internship experience, I focus on building clean, functional, and user-friendly software while continuously improving my backend and full-stack skills.
+
+---
+
+## 🚀 What I Do
+- Build full-stack and web applications  
+- Work with Java, MERN stack, and databases  
+- Learn by implementing real projects, not just tutorials  
 
 ---
 
@@ -13,12 +21,15 @@ I am an MCA student with a strong academic background in computer applications a
 **Programming Languages**
 - C  
 - Java  
-- Python  
+- Python
+- JavaScript
 
 **Web Technologies & Frameworks**
-- HTML, CSS, JavaScript  
+- HTML
+- CSS
 - React.js  
-- Node.js, Express.js  
+- Node.js
+- Express.js  
 
 **Databases**
 - SQL  
@@ -52,17 +63,23 @@ I am an MCA student with a strong academic background in computer applications a
 ### 🔹 AURA STYLE – Online Shopping Website
 - MERN stack–based fashion shopping website  
 - Designed both user-facing and admin interfaces  
-- Implemented dynamic cart management and admin product CRUD operations  
+- Implemented dynamic cart management and admin product CRUD operations
+
+**Tech:** React, Node.js, MongoDB  
 
 ### 🔹 EchoChat – Chat Application
 - Java-based real-time chat application using socket programming  
 - Supports one-to-one messaging and basic authentication  
-- Designed a user-friendly GUI using Java Swing  
+- Designed a user-friendly GUI using Java Swing
+
+**Tech:** Java, Socket Programming
 
 ### 🔹 GenreGennie – Music Genre Classification System
 - Machine learning model to classify songs using MFCC features  
 - Implemented using Random Forest classifier  
 - Built an interactive Streamlit app for real-time genre prediction  
+
+**Tech:** Python, ML, Streamlit 
 
 ---
 
@@ -87,4 +104,4 @@ I am an MCA student with a strong academic background in computer applications a
 
 ---
 
-⭐ Actively seeking internship and entry-level opportunities to grow as a software developer.
+✨ Open to internships and entry-level opportunities where I can learn, contribute, and grow as a software developer.
